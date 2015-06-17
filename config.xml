@@ -4,6 +4,6 @@
     <content src="index.html"/>
     <icon src="icon.png"/>
     <name>helloTizen</name>
-    <tizen:setting screen-orientation="portrait" contextmenu="enable"/>
+    <tizen:setting screen-orientation="landscape" contextmenu="enable"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
 </widget>
