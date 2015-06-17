@@ -15,5 +15,5 @@ all:
 
 
 clean:
-	-rm $(PROJECT).wgt
+	-rm -f $(PROJECT).wgt
 
